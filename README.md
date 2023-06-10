@@ -12,7 +12,7 @@ feel free to email me at martin@martinshkreli.com. I'll be happy to help you out
 
 
 
-To run this, launch
+# To run this, launch #
 node stocks.js
 
 make sure that node is installed on the computper
